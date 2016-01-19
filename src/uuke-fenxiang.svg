@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="图层_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
 <g>
 	
-		<line fill="#484C54" stroke="#484C54" stroke-width="24.9677" stroke-linecap="round" stroke-miterlimit="10" x1="256" y1="314.202" x2="256" y2="34.415"/>
-	<polyline fill="none" stroke="#484C54" stroke-width="24.9677" stroke-linecap="round" stroke-miterlimit="10" points="
-		186.526,100.474 256,31 325.474,100.474 	"/>
-	<path fill="none" stroke="#484C54" stroke-width="24.9677" stroke-linecap="round" stroke-miterlimit="10" d="M185.1,163.452
-		h-80.314c-11.624,0-21.047,9.423-21.047,21.047v275.454c0,11.624,9.423,21.047,21.047,21.047h302.427
-		c11.624,0,21.047-9.423,21.047-21.047V184.499c0-11.624-9.423-21.047-21.047-21.047H326.9"/>
+		<line fill="#484C54" stroke="#040000" stroke-width="23.3032" stroke-linecap="round" stroke-miterlimit="10" x1="256" y1="310.322" x2="256" y2="49.187"/>
+	<polyline fill="none" stroke="#040000" stroke-width="23.3032" stroke-linecap="round" stroke-miterlimit="10" points="
+		191.158,110.842 256,46 320.842,110.842 	"/>
+	<path fill="none" stroke="#040000" stroke-width="23.3032" stroke-linecap="round" stroke-miterlimit="10" d="M189.827,169.622
+		h-74.96c-10.849,0-19.644,8.795-19.644,19.644v257.091c0,10.849,8.795,19.644,19.644,19.644h282.266
+		c10.849,0,19.644-8.795,19.644-19.644V189.266c0-10.849-8.795-19.644-19.644-19.644h-74.96"/>
 </g>
 </svg>
