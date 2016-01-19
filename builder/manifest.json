@@ -1,5 +1,5 @@
 {
-  "build_hash": "6f03119307609c71eae198ca07ed56dd",
+  "build_hash": "102f73c8bae5bd0f10561b822a3c1399",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2889,8 +2889,208 @@
       "name": "usb"
     },
     {
+      "code": "0xf13b",
+      "name": "uuke-alipay"
+    },
+    {
+      "code": "0xf13c",
+      "name": "uuke-at"
+    },
+    {
+      "code": "0xf145",
+      "name": "uuke-bianji"
+    },
+    {
+      "code": "0xf146",
+      "name": "uuke-chexiao"
+    },
+    {
+      "code": "0xf14c",
+      "name": "uuke-dongtai"
+    },
+    {
+      "code": "0xf14d",
+      "name": "uuke-fanhui"
+    },
+    {
+      "code": "0xf14e",
+      "name": "uuke-feiyong"
+    },
+    {
+      "code": "0xf14f",
+      "name": "uuke-fenxiang"
+    },
+    {
+      "code": "0xf150",
+      "name": "uuke-gengduo"
+    },
+    {
+      "code": "0xf151",
+      "name": "uuke-guanbi"
+    },
+    {
+      "code": "0xf152",
+      "name": "uuke-guanbi2"
+    },
+    {
+      "code": "0xf153",
+      "name": "uuke-guanzhu"
+    },
+    {
+      "code": "0xf154",
+      "name": "uuke-hongxian"
+    },
+    {
+      "code": "0xf155",
+      "name": "uuke-huanjie"
+    },
+    {
+      "code": "0xf156",
+      "name": "uuke-jieshao"
+    },
+    {
       "code": "0xf138",
       "name": "uuke-jigou"
+    },
+    {
+      "code": "0xf157",
+      "name": "uuke-jindu"
+    },
+    {
+      "code": "0xf158",
+      "name": "uuke-jubao"
+    },
+    {
+      "code": "0xf159",
+      "name": "uuke-kecheng"
+    },
+    {
+      "code": "0xf15a",
+      "name": "uuke-mima"
+    },
+    {
+      "code": "0xf15b",
+      "name": "uuke-pengyouquan"
+    },
+    {
+      "code": "0xf15c",
+      "name": "uuke-pinlun"
+    },
+    {
+      "code": "0xf15d",
+      "name": "uuke-qingchu"
+    },
+    {
+      "code": "0xf15e",
+      "name": "uuke-quxiaoguanzhu"
+    },
+    {
+      "code": "0xf15f",
+      "name": "uuke-quxiaozhiding"
+    },
+    {
+      "code": "0xf160",
+      "name": "uuke-renshu"
+    },
+    {
+      "code": "0xf161",
+      "name": "uuke-rili"
+    },
+    {
+      "code": "0xf162",
+      "name": "uuke-shezhi"
+    },
+    {
+      "code": "0xf163",
+      "name": "uuke-shijian"
+    },
+    {
+      "code": "0xf164",
+      "name": "uuke-shouji"
+    },
+    {
+      "code": "0xf165",
+      "name": "uuke-taolun"
+    },
+    {
+      "code": "0xf166",
+      "name": "uuke-tuichu"
+    },
+    {
+      "code": "0xf167",
+      "name": "uuke-tupian"
+    },
+    {
+      "code": "0xf168",
+      "name": "uuke-wancheng"
+    },
+    {
+      "code": "0xf169",
+      "name": "uuke-weixin1"
+    },
+    {
+      "code": "0xf16a",
+      "name": "uuke-weixin2"
+    },
+    {
+      "code": "0xf16b",
+      "name": "uuke-wo"
+    },
+    {
+      "code": "0xf16c",
+      "name": "uuke-xiala"
+    },
+    {
+      "code": "0xf16d",
+      "name": "uuke-xiangji"
+    },
+    {
+      "code": "0xf16e",
+      "name": "uuke-xianshimima"
+    },
+    {
+      "code": "0xf16f",
+      "name": "uuke-xiasanjiao"
+    },
+    {
+      "code": "0xf170",
+      "name": "uuke-xiazai"
+    },
+    {
+      "code": "0xf171",
+      "name": "uuke-xuanke"
+    },
+    {
+      "code": "0xf172",
+      "name": "uuke-xuefei"
+    },
+    {
+      "code": "0xf173",
+      "name": "uuke-yincang"
+    },
+    {
+      "code": "0xf174",
+      "name": "uuke-yousanjiao"
+    },
+    {
+      "code": "0xf175",
+      "name": "uuke-youxiupinlun"
+    },
+    {
+      "code": "0xf176",
+      "name": "uuke-zan"
+    },
+    {
+      "code": "0xf177",
+      "name": "uuke-zhiding"
+    },
+    {
+      "code": "0xf178",
+      "name": "uuke-zuopin"
+    },
+    {
+      "code": "0xf179",
+      "name": "uuke-zuosanjiao"
     },
     {
       "code": "0xf256",
