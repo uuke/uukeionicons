@@ -2,6 +2,9 @@
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-	361,466 151,256 361,46 "/>
+<g>
+	<path d="M361,480c-3.583,0-7.166-1.367-9.899-4.101l-210-210c-5.467-5.467-5.467-14.332,0-19.799l210-210
+		c5.467-5.468,14.332-5.468,19.799,0c5.467,5.467,5.467,14.332,0,19.799L170.799,256l200.101,200.101
+		c5.467,5.467,5.467,14.332,0,19.799C368.166,478.633,364.583,480,361,480z"/>
+</g>
 </svg>

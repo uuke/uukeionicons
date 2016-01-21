@@ -4,13 +4,19 @@
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
 <g>
 	<g id="XMLID_126_">
-		
-			<polyline id="XMLID_112_" fill="none" stroke="#000000" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			362.718,220.508 256,134.797 256,466 		"/>
-		
-			<line id="XMLID_111_" fill="none" stroke="#000000" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="146.563" y1="220.508" x2="256" y2="134.797"/>
+		<g id="XMLID_112_">
+			<path d="M256,477c-6.075,0-11-4.925-11-11V134.797c0-4.232,2.428-8.089,6.244-9.919c3.818-1.831,8.345-1.307,11.644,1.343
+				l106.719,85.712c4.736,3.804,5.492,10.728,1.688,15.464c-3.804,4.737-10.727,5.494-15.465,1.688L267,157.74V466
+				C267,472.075,262.075,477,256,477z"/>
+		</g>
+		<g id="XMLID_111_">
+			<path d="M146.571,231.509c-3.266,0-6.498-1.447-8.668-4.218c-3.746-4.782-2.905-11.696,1.878-15.442l109.437-85.712
+				c4.782-3.746,11.697-2.904,15.442,1.878c3.746,4.782,2.905,11.696-1.878,15.442l-109.437,85.712
+				C151.334,230.745,148.943,231.509,146.571,231.509z"/>
+		</g>
 	</g>
-	
-		<line id="XMLID_99_" fill="none" stroke="#000000" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="60.305" y1="46" x2="451.695" y2="46"/>
+	<g id="XMLID_99_">
+		<path d="M451.695,57H60.305c-6.075,0-11-4.925-11-11s4.925-11,11-11h391.391c6.075,0,11,4.925,11,11S457.771,57,451.695,57z"/>
+	</g>
 </g>
 </svg>

@@ -2,18 +2,20 @@
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<circle cx="256" cy="256" r="210"/>
+<g>
+	<circle cx="256" cy="256" r="210"/>
+</g>
 <g>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-miterlimit="10" x1="341" y1="171" x2="171" y2="341"/>
+			<path fill="#FFFFFF" d="M171,352c-2.815,0-5.63-1.074-7.778-3.222c-4.295-4.296-4.295-11.261,0-15.557l170-170
+				c4.296-4.296,11.261-4.296,15.557,0c4.295,4.296,4.295,11.261,0,15.557l-170,170C176.63,350.926,173.815,352,171,352z"/>
 		</g>
 	</g>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-miterlimit="10" x1="171" y1="171" x2="341" y2="341"/>
+			<path fill="#FFFFFF" d="M341,352c-2.815,0-5.63-1.074-7.778-3.222l-170-170c-4.295-4.296-4.295-11.261,0-15.557
+				c4.296-4.296,11.261-4.296,15.557,0l170,170c4.295,4.296,4.295,11.261,0,15.557C346.63,350.926,343.815,352,341,352z"/>
 		</g>
 	</g>
 </g>
