@@ -1,5 +1,5 @@
 {
-  "build_hash": "2baabce060f6a01dbb3028457531050d",
+  "build_hash": "01f4bcfa48c2801c324b648c84d5796d",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2913,6 +2913,14 @@
       "name": "uuke-fanhui"
     },
     {
+      "code": "0xf181",
+      "name": "uuke-faxiankecheng-off"
+    },
+    {
+      "code": "0xf17b",
+      "name": "uuke-faxiankecheng-on"
+    },
+    {
       "code": "0xf14e",
       "name": "uuke-feiyong"
     },
@@ -2965,8 +2973,12 @@
       "name": "uuke-jubao"
     },
     {
-      "code": "0xf159",
-      "name": "uuke-kecheng"
+      "code": "0xf17d",
+      "name": "uuke-kecheng-off"
+    },
+    {
+      "code": "0xf17e",
+      "name": "uuke-kecheng-on"
     },
     {
       "code": "0xf15a",
@@ -3037,8 +3049,12 @@
       "name": "uuke-weixin2"
     },
     {
-      "code": "0xf16b",
-      "name": "uuke-wo"
+      "code": "0xf17f",
+      "name": "uuke-wo-off"
+    },
+    {
+      "code": "0xf180",
+      "name": "uuke-wo-on"
     },
     {
       "code": "0xf16c",
