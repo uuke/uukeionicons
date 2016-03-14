@@ -2,11 +2,8 @@
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#DE00A5;}
-</style>
 <g>
-	<path id="XMLID_26_" class="st0" d="M256,267.5c-106.3,0-193.2,82.8-200,187.4h400C449.2,350.3,362.3,267.5,256,267.5z"/>
-	<circle id="XMLID_18_" class="st0" cx="256" cy="146.5" r="89.5"/>
+	<path id="XMLID_26_" d="M256,267.5c-106.3,0-193.2,82.8-200,187.4h400C449.2,350.3,362.3,267.5,256,267.5z"/>
+	<circle id="XMLID_18_" cx="256" cy="146.5" r="89.5"/>
 </g>
 </svg>
