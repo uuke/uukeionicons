@@ -1,6 +1,8 @@
 from subprocess import call
 import os
 import json
+import xml.etree.ElementTree as ET
+import string
 
 
 BUILDER_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -23,12 +25,40 @@ def main():
   generate_component_json(data)
   generate_composer_json(data)
   generate_bower_json(data)
+  generate_sketch_fontfile(data)
 
 
 def generate_font_files():
   print "Generate Fonts"
   cmd = "fontforge -script %s/scripts/generate_font.py" % (BUILDER_PATH)
   call(cmd, shell=True)
+
+def generate_sketch_fontfile(data):
+  print "Generate Sketch font file"
+  ET.register_namespace('', "http://www.w3.org/2000/svg")
+  ET.register_namespace('xlink', "http://www.w3.org/1999/xlink")
+
+  svg_path = os.path.join(FONTS_FOLDER_PATH, 'ionicons.svg')
+  sketch_path = os.path.join(FONTS_FOLDER_PATH, 'ionicons_sketch.svg')
+
+  # with open(svg_path, 'r') as utf8_file:
+  doc = ET.parse(svg_path)
+  doc.write(sketch_path, xml_declaration=True, method='html')
+
+  sketch_file = open(sketch_path, 'r+')
+  sketch_text = sketch_file.read()
+  sketch_file.seek(0)
+
+  for ionicon in data['icons']:
+    # uniF2CA
+    code = string.atoi(ionicon['code'], 16)
+
+    org = '&#%d;' % (code)
+    hexvalue = '&#x%s' % (ionicon['code'].replace('0x', '').upper())
+    sketch_text = sketch_text.replace(org, hexvalue)
+
+  sketch_file.write(sketch_text)
+  sketch_file.close()
 
 
 def rename_svg_glyph_names(data):
