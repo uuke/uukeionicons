@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g>
-	
-		<path id="XMLID_48_" fill="none" stroke="#000000" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M335.207,450.551C310.764,460.512,284.023,466,256,466c-115.98,0-210-94.011-210-209.979S140.02,46.042,256,46.042
-		s210,94.011,210,209.979c0,46.912-15.386,90.231-41.387,125.187"/>
-	
-		<ellipse id="XMLID_47_" fill="none" stroke="#000000" stroke-width="23.3322" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="256" cy="256.021" rx="159.077" ry="159.061"/>
-	<path id="XMLID_46_" d="M256,96.96l0-50.918c0,0,187.074-8.373,210,209.979h-50.923C415.077,256.021,391.162,95.094,256,96.96z"/>
-</g>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path d="M416.3,99.8C374.5,58,319,35,260,35S145.5,58,103.7,99.8C62,141.5,39,197,39,256c0,59,23,114.5,64.7,156.3
+	C145.5,454,201,477,260,477c28.8,0,56.9-5.5,83.4-16.3c5.6-2.3,8.3-8.7,6-14.3c-2.3-5.6-8.7-8.3-14.3-6C311.2,450.1,286,455,260,455
+	c-109.7,0-199-89.3-199-199c0-109.7,89.3-199,199-199v28.3c-94.1,0-170.7,76.6-170.7,170.7c0,94.1,76.6,170.7,170.7,170.7
+	c94.1,0,170.7-76.6,170.7-170.7c0,0,0,0,0,0H459c0,0,0,0,0,0c0,43.1-13.6,84.1-39.2,118.6c-3.6,4.9-2.6,11.8,2.3,15.4
+	c4.9,3.6,11.8,2.6,15.4-2.3C465.9,349.5,481,303.9,481,256C481,197,458,141.5,416.3,99.8z M260,403.4
+	c-81.3,0-147.4-66.1-147.4-147.4c0-81.3,66.1-147.4,147.4-147.4c81.3,0,147.4,66.1,147.4,147.4C407.4,337.3,341.3,403.4,260,403.4z"
+	/>
 </svg>

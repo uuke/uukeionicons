@@ -1,5 +1,5 @@
 {
-  "build_hash": "a5a0a87910664c8792a120890b7cfafa",
+  "build_hash": "b0d470d26a73b9ded0786daa85528145",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2909,8 +2909,24 @@
       "name": "uuke-dongtai"
     },
     {
+      "code": "0xf182",
+      "name": "uuke-fabiao"
+    },
+    {
       "code": "0xf14d",
       "name": "uuke-fanhui"
+    },
+    {
+      "code": "0xf17c",
+      "name": "uuke-faxiankecheng"
+    },
+    {
+      "code": "0xf181",
+      "name": "uuke-faxiankecheng-off"
+    },
+    {
+      "code": "0xf17b",
+      "name": "uuke-faxiankecheng-on"
     },
     {
       "code": "0xf14e",
@@ -2945,6 +2961,10 @@
       "name": "uuke-huanjie"
     },
     {
+      "code": "0xf17a",
+      "name": "uuke-jiaoyanma"
+    },
+    {
       "code": "0xf156",
       "name": "uuke-jieshao"
     },
@@ -2963,6 +2983,14 @@
     {
       "code": "0xf159",
       "name": "uuke-kecheng"
+    },
+    {
+      "code": "0xf17d",
+      "name": "uuke-kecheng-off"
+    },
+    {
+      "code": "0xf17e",
+      "name": "uuke-kecheng-on"
     },
     {
       "code": "0xf15a",
@@ -3035,6 +3063,14 @@
     {
       "code": "0xf16b",
       "name": "uuke-wo"
+    },
+    {
+      "code": "0xf17f",
+      "name": "uuke-wo-off"
+    },
+    {
+      "code": "0xf180",
+      "name": "uuke-wo-on"
     },
     {
       "code": "0xf16c",
