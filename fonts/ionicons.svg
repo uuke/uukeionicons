@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-4-21: Created with FontForge (http://fontforge.org)
+2016-6-7: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150913 at Thu Apr 21 11:58:55 2016
+Created by FontForge 20150913 at Tue Jun  7 16:00:14 2016
  By Dianrong Du
 Copyright (c) 2016, Dianrong Du
 </metadata>
@@ -771,9 +771,8 @@ d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 20
 c0 -1 -1 -1 -1 -2c-14 -33 -32 -64 -52 -93c-2 1 -2 2 -4 4c-19 19 -35 41 -45 66c-9 21 -13 43 -15 65c-5 0 -11 -1 -16 -1c4 -58 31 -110 71 -147c-9 -13 -19 -25 -30 -37c-48 50 -105 91 -169 119c-4 -4 -7 -9 -10 -13c59 -26 112 -62 158 -108l10 -10l-8 -8
 c-13 -13 -26 -25 -40 -36c-39 43 -93 71 -155 74c-1 -5 -1 -11 -1 -16c25 -1 49 -7 71 -16c25 -10 47 -26 66 -45l7 -7c-31 -24 -66 -44 -102 -60c4 -4 7 -9 11 -13c36 16 70 37 101 61c11 -14 21 -30 28 -47c10 -23 15 -46 16 -71c5 0 11 0 16 1c-2 48 -19 92 -47 127
 c17 14 33 28 48 44c36 -41 65 -86 87 -136c4 3 9 6 13 10z" />
-    <glyph glyph-name="ion-ios-bell-outline" unicode="&#xf3e1;" horiz-adv-x="384" 
-d="M318 222c0 -114 28 -126 66 -158h-384c38 32 66 44 66 158c0 98 53 130 102 138v2c0 12 11 22 24 22s24 -10 24 -22v-2c49 -7 102 -40 102 -138zM43 80h298c-25 25 -40 58 -40 142c0 46 -13 80 -37 101c-23 19 -52 23 -72 23s-49 -4 -72 -23c-25 -21 -37 -55 -37 -101
-c0 -51 -5 -85 -17 -110c-6 -13 -14 -23 -23 -32zM192 0c-27 0 -49 20 -52 43h104c-3 -23 -25 -43 -52 -43z" />
+    <glyph glyph-name="ion-ios-bell-outline" unicode="&#xf3e1;" horiz-adv-x="393" 
+d="M84 138l-42 -84h309l-42 84v112c0 62 -50 113 -112 113s-113 -51 -113 -113v-112zM197 -3v0c18 0 33 13 39 29h-79c6 -16 22 -29 40 -29zM337 138v0l56 -112h-127c-7 -32 -35 -57 -69 -57s-62 25 -69 57h-128l56 112v112c0 78 63 141 141 141s140 -63 140 -141v-112z" />
     <glyph glyph-name="ion-ios-bell" unicode="&#xf3e2;" horiz-adv-x="384" 
 d="M318 222c0 -114 28 -126 66 -158h-384c38 32 66 44 66 158c0 98 53 130 102 138v2c0 12 11 22 24 22s24 -10 24 -22v-2c49 -7 102 -40 102 -138zM192 0c-27 0 -49 20 -52 43h104c-3 -23 -25 -43 -52 -43z" />
     <glyph glyph-name="ion-ios-body-outline" unicode="&#xf3e3;" horiz-adv-x="384" 

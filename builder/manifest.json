@@ -1,5 +1,5 @@
 {
-  "build_hash": "4cd2e9cb086c3a652da485394e25d950",
+  "build_hash": "882f5c306346e5609ae2d25aa58452c9",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2895,6 +2895,10 @@
     {
       "code": "0xf13c",
       "name": "uuke-at"
+    },
+    {
+      "code": "0xf187",
+      "name": "uuke-bell"
     },
     {
       "code": "0xf145",
