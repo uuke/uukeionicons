@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
 <metadata>
-Created by FontForge 20150913 at Fri Jun 17 15:05:04 2016
+Created by FontForge 20150913 at Tue Jul 12 17:12:21 2016
  By Dianrong Du
 Copyright (c) 2016, Dianrong Du
 </metadata>
@@ -362,7 +362,7 @@ Copyright (c) 2016, Dianrong Du
     <glyph d="M224 320v0l224 -128l-224 -128v123l-224 -123v256l224 -123v123z" glyph-name="ion-ios-fastforward" unicode="&#xF427"></glyph>
     <glyph d="M288 320l64 -96v-160h-176h-176v160l64 96h224zM333 224l-45 68v-68h45zM80 304v-80h48c0 -26 22 -48 48 -48s48 22 48 48h48v80h-192zM64 292l-45 -68h45v68zM336 80v128h-98c-7 -28 -32 -48 -62 -48s-55 20 -62 48h-98v-128h160h160z" glyph-name="ion-ios-filing-outline" horiz-adv-x="352" unicode="&#xF428"></glyph>
     <glyph d="M176 160c30 0 55 20 62 48h114v-144h-176h-176v144h114c7 -28 32 -48 62 -48zM64 224h-7h-57l64 96v0v-80h16v80h192v-80h16v80v0l64 -96h-56h-8h-16h-8h-40c0 -26 -22 -48 -48 -48s-48 22 -48 48h-39h-9h-16z" glyph-name="ion-ios-filing" horiz-adv-x="352" unicode="&#xF429"></glyph>
-    <glyph d="M0 360h400v-336h-400v336zM72 40v48h-56v-48h56zM72 104v48h-56v-48h56zM72 168v48h-56v-48h56zM72 232v48h-56v-48h56zM72 296v48h-56v-48h56zM312 40v144h-224v-144h224zM312 200v144h-224v-144h224zM384 40v48h-56v-48h56zM384 104v48h-56v-48h56zM384 168v48h-56v-48 h56zM384 232v48h-56v-48h56zM384 296v48h-56v-48h56z" glyph-name="ion-ios-film-outline" horiz-adv-x="400" unicode="&#xF42A"></glyph>
+    <glyph d="M0 378h443v-372h-443v372zM80 24v53h-62v-53h62zM80 95v53h-62v-53h62zM80 165v53h-62v-53h62zM80 236v53h-62v-53h62zM80 307v53h-62v-53h62zM345 24v159h-248v-159h248zM345 201v159h-248v-159h248zM425 24v53h-62v-53h62zM425 95v53h-62v-53h62zM425 165v53h-62v-53 h62zM425 236v53h-62v-53h62zM425 307v53h-62v-53h62z" glyph-name="ion-ios-film-outline" horiz-adv-x="443" unicode="&#xF42A"></glyph>
     <glyph d="M0 360h400v-336h-400v336zM72 40v48h-56v-48h56zM72 104v48h-56v-48h56zM72 168v48h-56v-48h56zM72 232v48h-56v-48h56zM72 296v48h-56v-48h56zM312 184v16h-224v-16h224zM384 40v48h-56v-48h56zM384 104v48h-56v-48h56zM384 168v48h-56v-48h56zM384 232v48h-56v-48h56z M384 296v48h-56v-48h56z" glyph-name="ion-ios-film" horiz-adv-x="400" unicode="&#xF42B"></glyph>
     <glyph d="M240 336c6 1 11 1 16 2v-16v-157c-5 -1 -10 -1 -16 -2c-11 -1 -24 -3 -39 -3c-25 0 -47 4 -69 9s-42 13 -64 13c-30 0 -46 -5 -52 -7v-143h-16v142v162v2l3 3c2 1 18 11 65 11c24 0 45 -4 67 -9c21 -4 42 -11 65 -11c15 0 29 3 40 4zM240 179v0v141c-11 -1 -25 -4 -40 -4 c-25 0 -46 6 -68 11s-42 9 -64 9c-30 0 -46 -5 -52 -7v-137c10 3 26 6 52 6c24 0 45 -8 67 -13c21 -4 43 -9 66 -9c15 0 28 2 39 3z" glyph-name="ion-ios-flag-outline" horiz-adv-x="256" unicode="&#xF42C"></glyph>
     <glyph d="M240 336c6 1 11 1 16 2v-16v-157c-5 -1 -10 -1 -16 -2c-11 -1 -24 -3 -39 -3c-25 0 -47 4 -69 9s-42 13 -64 13c-30 0 -46 -5 -52 -7v-143h-16v142v162v2l3 3c2 1 18 11 65 11c24 0 45 -4 67 -9c21 -4 42 -11 65 -11c15 0 29 3 40 4z" glyph-name="ion-ios-flag" horiz-adv-x="256" unicode="&#xF42D"></glyph>
