@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
 <metadata>
-Created by FontForge 20150913 at Tue Jul 12 17:12:21 2016
+Created by FontForge 20150913 at Thu Aug 11 10:13:56 2016
  By Dianrong Du
 Copyright (c) 2016, Dianrong Du
 </metadata>
@@ -458,7 +458,7 @@ Copyright (c) 2016, Dianrong Du
     <glyph d="M16 323v-262l210 131zM0 352v0l256 -160l-256 -160v320z" glyph-name="ion-ios-play-outline" horiz-adv-x="256" unicode="&#xF487"></glyph>
     <glyph d="M0 352v0l256 -160l-256 -160v320z" glyph-name="ion-ios-play" horiz-adv-x="256" unicode="&#xF488"></glyph>
     <glyph d="M256 183h-120v-119h-17v119h-119v17h119v120h17v-120h120v-17z" glyph-name="ion-ios-plus-empty" horiz-adv-x="256" unicode="&#xF489"></glyph>
-    <glyph d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM208 1c105 0 191 86 191 191s-86 191 -191 191s-191 -86 -191 -191s86 -191 191 -191zM216 320v-120h120v-17h-120v-119h-17v119h-119v17h119v120h17z" glyph-name="ion-ios-plus-outline" horiz-adv-x="416" unicode="&#xF48A"></glyph>
+    <glyph d="M223 -31c-60 0 -116 23 -158 65s-65 98 -65 158s23 116 65 158s98 65 158 65s116 -23 158 -65s65 -98 65 -158s-23 -116 -65 -158s-98 -65 -158 -65zM223 385c-106 0 -193 -87 -193 -193s87 -193 193 -193s193 87 193 193s-87 193 -193 193zM366 179h-286c-4 0 -8 4 -8 8 v14c0 4 4 8 8 8h286c4 0 8 -4 8 -8v-14c0 -4 -4 -8 -8 -8zM238 336v-285c0 -4 -4 -8 -8 -8h-14c-4 0 -8 4 -8 8v285c0 4 4 8 8 8h14c4 0 8 -4 8 -8z" glyph-name="ion-ios-plus-outline" horiz-adv-x="446" unicode="&#xF48A"></glyph>
     <glyph d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM336 183v17h-120v120h-17v-120h-119v-17h119v-119h17v119h120z" glyph-name="ion-ios-plus" horiz-adv-x="416" unicode="&#xF48B"></glyph>
     <glyph d="M416 416v-160l-256 -288l-160 160l256 288h160zM400 264v136h-136l-240 -272l136 -136zM320 288c-18 0 -32 14 -32 32s14 32 32 32s32 -14 32 -32s-14 -32 -32 -32zM320 336c-9 0 -16 -7 -16 -16s7 -16 16 -16s16 7 16 16s-7 16 -16 16z" glyph-name="ion-ios-pricetag-outline" horiz-adv-x="416" unicode="&#xF48C"></glyph>
     <glyph d="M304 320c0 9 7 16 16 16s16 -7 16 -16s-7 -16 -16 -16s-16 7 -16 16zM256 416h160v-160l-256 -288l-160 160zM320 288c18 0 32 14 32 32s-14 32 -32 32s-32 -14 -32 -32s14 -32 32 -32z" glyph-name="ion-ios-pricetag" horiz-adv-x="416" unicode="&#xF48D"></glyph>

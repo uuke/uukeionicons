@@ -1,5 +1,5 @@
 {
-  "build_hash": "056f7c248b7dec6ace6b831da87915ba",
+  "build_hash": "11e9bcce3f308d4bb4b17f6d00d0d8d8",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2903,6 +2903,10 @@
     {
       "code": "0xf145",
       "name": "uuke-bianji"
+    },
+    {
+      "code": "0xf188",
+      "name": "uuke-charutupianshipin"
     },
     {
       "code": "0xf146",

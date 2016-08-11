@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-7-12: Created with FontForge (http://fontforge.org)
+2016-8-11: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150913 at Tue Jul 12 17:12:21 2016
+Created by FontForge 20150913 at Thu Aug 11 10:13:56 2016
  By Dianrong Du
 Copyright (c) 2016, Dianrong Du
 </metadata>
@@ -1278,8 +1278,9 @@ d="M16 323v-262l210 131zM0 352v0l256 -160l-256 -160v320z" />
 d="M0 352v0l256 -160l-256 -160v320z" />
     <glyph glyph-name="ion-ios-plus-empty" unicode="&#xf489;" horiz-adv-x="256" 
 d="M256 183h-120v-119h-17v119h-119v17h119v120h17v-120h120v-17z" />
-    <glyph glyph-name="ion-ios-plus-outline" unicode="&#xf48a;" horiz-adv-x="416" 
-d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM208 1c105 0 191 86 191 191s-86 191 -191 191s-191 -86 -191 -191s86 -191 191 -191zM216 320v-120h120v-17h-120v-119h-17v119h-119v17h119v120h17z" />
+    <glyph glyph-name="ion-ios-plus-outline" unicode="&#xf48a;" horiz-adv-x="446" 
+d="M223 -31c-60 0 -116 23 -158 65s-65 98 -65 158s23 116 65 158s98 65 158 65s116 -23 158 -65s65 -98 65 -158s-23 -116 -65 -158s-98 -65 -158 -65zM223 385c-106 0 -193 -87 -193 -193s87 -193 193 -193s193 87 193 193s-87 193 -193 193zM366 179h-286c-4 0 -8 4 -8 8
+v14c0 4 4 8 8 8h286c4 0 8 -4 8 -8v-14c0 -4 -4 -8 -8 -8zM238 336v-285c0 -4 -4 -8 -8 -8h-14c-4 0 -8 4 -8 8v285c0 4 4 8 8 8h14c4 0 8 -4 8 -8z" />
     <glyph glyph-name="ion-ios-plus" unicode="&#xf48b;" horiz-adv-x="416" 
 d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM336 183v17h-120v120h-17v-120h-119v-17h119v-119h17v119h120z" />
     <glyph glyph-name="ion-ios-pricetag-outline" unicode="&#xf48c;" horiz-adv-x="416" 
