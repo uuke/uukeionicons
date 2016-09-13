@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-9-7: Created with FontForge (http://fontforge.org)
+2016-9-13: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150913 at Wed Sep  7 14:28:55 2016
+Created by FontForge 20150913 at Tue Sep 13 18:40:40 2016
  By Dianrong Du
 Copyright (c) 2016, Dianrong Du
 </metadata>
@@ -19,7 +19,7 @@ Copyright (c) 2016, Dianrong Du
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.54049 -194 512.487 448"
+    bbox="-0.54049 -277 512.487 448"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F4F7"
@@ -2197,6 +2197,9 @@ c19 0 37 9 54 25s29 39 39 69c10 29 15 52 15 66s-5 25 -14 32s-22 11 -39 11c-16 0 
     <glyph glyph-name="ion-uuke-bianji" unicode="&#xf145;" horiz-adv-x="442" 
 d="M389 220h-22v-165c0 -32 -25 -58 -57 -58h-231c-32 0 -57 26 -57 58v231c0 32 25 57 57 57h179v22h-179c-44 0 -79 -35 -79 -79v-231c0 -44 35 -80 79 -80h231c44 0 79 36 79 80v165zM333 364l64 -64l41 40c5 5 5 14 0 19l-45 46c-5 5 -14 5 -19 0zM397 331l-33 33l19 19
 l33 -33zM381 283l-16 16l-202 -203l-33 33l200 200l-16 16l-215 -216l64 -64zM118 110l25 -25l-40 -16zM110 149l-46 -118l118 46z" />
+    <glyph glyph-name="ion-uuke-bofangyuyin" unicode="&#xf18a;" horiz-adv-x="320" 
+d="M320 -53c0 -80 -30 -156 -84 -214l-10 -10l-9 10l-32 32l-10 10l9 9c41 44 64 103 64 163s-23 119 -64 163l-9 9l10 10l32 32l9 10l10 -10c54 -58 84 -134 84 -214v0zM160 -194l-10 -11l-10 10l-32 33l-9 9l8 9c22 25 35 58 35 91s-13 65 -35 90l-8 10l9 9l32 33l10 10
+l10 -11c33 -37 52 -83 54 -132v0v-9v0v0c0 -52 -19 -102 -54 -141zM0 -53l10 9l52 53l10 11l10 -12c11 -17 20 -32 20 -61s-9 -47 -20 -62l-10 -11l-10 10l-52 53z" />
     <glyph glyph-name="ion-uuke-chexiao" unicode="&#xf146;" horiz-adv-x="426" 
 d="M299 -11l-9 20c-2 -1 -9 -3 -17 -5l5 -21c9 2 16 4 21 6zM234 -25l-4 22c-19 -3 -37 -4 -39 -4c-66 6 -121 44 -153 97l-19 -12c35 -59 97 -100 170 -107c8 -1 25 1 45 4zM8 99l20 9c-3 6 -5 12 -7 18l-21 -8c2 -7 5 -13 8 -19zM75 372l12 -18c33 24 74 37 117 37
 c110 0 200 -90 200 -200c0 -69 -35 -130 -88 -166l12 -18c59 40 98 108 98 184c0 123 -99 222 -222 222c-48 0 -93 -15 -129 -41zM116 350l-67 -5l36 56z" />
