@@ -1,5 +1,5 @@
 {
-  "build_hash": "590e08bd142e5a920da28a0d4f77b5db",
+  "build_hash": "6a407647dc28ecd38007a9a4f1e1ffa0",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2961,6 +2961,10 @@
       "name": "uuke-huanjie"
     },
     {
+      "code": "0xf18b",
+      "name": "uuke-jianpan"
+    },
+    {
       "code": "0xf17a",
       "name": "uuke-jiaoyanma"
     },
@@ -3119,6 +3123,10 @@
     {
       "code": "0xf175",
       "name": "uuke-youxiupinlun"
+    },
+    {
+      "code": "0xf18c",
+      "name": "uuke-yuyin"
     },
     {
       "code": "0xf176",
