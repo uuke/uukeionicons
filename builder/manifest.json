@@ -1,5 +1,5 @@
 {
-  "build_hash": "7aacea99e3c3846d181998460205b77e",
+  "build_hash": "40e2b24f0e4cccb3cb2fbefc9328534a",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -3107,6 +3107,10 @@
     {
       "code": "0xf16e",
       "name": "uuke-xianshimima"
+    },
+    {
+      "code": "0xf18f",
+      "name": "uuke-xiaoxi"
     },
     {
       "code": "0xf16f",
