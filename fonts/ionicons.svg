@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-11-25: Created with FontForge (http://fontforge.org)
+2016-12-20: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Fri Nov 25 11:56:05 2016
+Created by FontForge 20160407 at Tue Dec 20 11:28:12 2016
  By Dianrong Du
 Copyright (c) 2016, Dianrong Du
 </metadata>
@@ -2262,6 +2262,9 @@ d="M377 348c42 -42 65 -97 65 -156c0 -48 -16 -94 -44 -132c-4 -5 -10 -6 -15 -2s-6 
 s0 -13 -6 -15c-26 -11 -54 -16 -83 -16c-59 0 -114 23 -156 65s-65 97 -65 156s23 114 65 156s97 65 156 65s114 -23 156 -65zM221 45c81 0 147 66 147 147s-66 147 -147 147s-147 -66 -147 -147s66 -147 147 -147z" />
     <glyph glyph-name="ion-uuke-jubao" unicode="&#xf158;" horiz-adv-x="354" 
 d="M0 -18h22v420h-22v-420zM14 394v-22l287 3l-84 -84l86 -97l-289 -3v-22l338 3l-105 118l107 107z" />
+    <glyph glyph-name="ion-uuke-kapian" unicode="&#xf18e;" horiz-adv-x="406" 
+d="M300 -4c-2 0 -3 0 -5 1l-138 40l7 23l133 -39l84 289l-155 46l6 22l160 -46c5 -1 9 -6 11 -10s3 -9 2 -14l-87 -298c-2 -8 -10 -14 -18 -14zM79 21c-9 0 -17 6 -19 15l-60 304c-2 10 5 21 15 23l199 39c5 1 11 0 15 -3s7 -7 8 -12l60 -304c1 -5 0 -11 -3 -15
+s-7 -7 -12 -8l-199 -39h-4zM24 341l58 -296l191 37l-58 296z" />
     <glyph glyph-name="ion-uuke-kecheng-off" unicode="&#xf17d;" horiz-adv-x="442" 
 d="M437 329c3 -2 5 -5 5 -9v-314c0 -4 -2 -7 -5 -9c-4 -2 -8 -2 -11 0c-1 1 -96 55 -146 16l-14 -31c-2 -4 -6 -6 -10 -6h-1h-69c-4 0 -8 2 -10 6l-14 31c-14 11 -41 22 -89 8c-31 -9 -56 -24 -56 -24c-3 -2 -8 -2 -11 0c-4 2 -6 5 -6 9v314c0 4 2 7 5 9c1 1 33 24 77 35
 c55 14 103 4 139 -28c36 32 84 42 139 28c44 -11 76 -34 77 -35zM420 25v289c-10 6 -36 21 -67 29c-49 13 -89 4 -120 -26l-1 -1v-1v-251c0 -6 -5 -11 -11 -11s-11 5 -11 11v251v1s-1 0 -1 1c-31 30 -72 39 -121 26c-31 -8 -56 -23 -66 -29v-289c33 16 108 44 156 4
