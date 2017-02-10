@@ -1,5 +1,5 @@
 {
-  "build_hash": "40e2b24f0e4cccb3cb2fbefc9328534a",
+  "build_hash": "696931f69378b7c550f1ac73a0630933",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2999,6 +2999,10 @@
     {
       "code": "0xf15a",
       "name": "uuke-mima"
+    },
+    {
+      "code": "0xf190",
+      "name": "uuke-pause"
     },
     {
       "code": "0xf15b",
